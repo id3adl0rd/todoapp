@@ -1,0 +1,29 @@
+{"level":"info","time":"2024-08-27T22:17:38+03:00","message":"http: Server closed"}
+{"level":"info","time":"2024-08-27T22:17:38+03:00","message":"Shutting down..."}
+{"level":"info","time":"2024-08-27T22:19:30+03:00","message":"http: Server closed"}
+{"level":"info","time":"2024-08-27T22:19:30+03:00","message":"Shutting down..."}
+{"level":"info","time":"2024-08-27T22:19:49+03:00","message":"http: Server closed"}
+{"level":"info","time":"2024-08-27T22:19:49+03:00","message":"Shutting down..."}
+{"level":"error","time":"2024-08-27T22:26:42+03:00","message":"Error decoding JSON: invalid character '-' in numeric literal"}
+{"level":"error","time":"2024-08-27T22:26:56+03:00","message":"Error decoding JSON: invalid character '-' in numeric literal"}
+{"level":"error","time":"2024-08-27T22:27:04+03:00","message":"Error decoding JSON: invalid character '-' in numeric literal"}
+{"level":"error","time":"2024-08-27T22:27:15+03:00","message":"Error decoding JSON: invalid character '-' in numeric literal"}
+{"level":"error","time":"2024-08-27T22:27:35+03:00","message":"Error decoding JSON: invalid character '-' in numeric literal"}
+{"level":"error","time":"2024-08-27T22:29:01+03:00","message":"Error decoding JSON: invalid character '\"' after object key:value pair"}
+{"level":"info","time":"2024-08-27T22:29:32+03:00","message":"http: Server closed"}
+{"level":"info","time":"2024-08-27T22:29:32+03:00","message":"Shutting down..."}
+{"level":"info","time":"2024-08-27T22:29:47+03:00","message":"http: Server closed"}
+{"level":"info","time":"2024-08-27T22:29:47+03:00","message":"Shutting down..."}
+{"level":"error","time":"2024-08-27T22:31:42+03:00","message":"Error decoding JSON: invalid character '-' in numeric literal"}
+{"level":"info","time":"2024-08-27T22:34:14+03:00","message":"http: Server closed"}
+{"level":"info","time":"2024-08-27T22:34:14+03:00","message":"Shutting down..."}
+{"level":"info","time":"2024-08-27T22:37:33+03:00","message":"http: Server closed"}
+{"level":"info","time":"2024-08-27T22:37:33+03:00","message":"Shutting down..."}
+{"level":"info","time":"2024-08-27T22:42:42+03:00","message":"http: Server closed"}
+{"level":"info","time":"2024-08-27T22:42:42+03:00","message":"Shutting down..."}
+{"level":"info","time":"2024-08-27T22:44:53+03:00","message":"http: Server closed"}
+{"level":"info","time":"2024-08-27T22:44:53+03:00","message":"Shutting down..."}
+{"level":"error","time":"2024-08-27T22:54:00+03:00","message":"Error decoding JSON: invalid character ',' looking for beginning of value"}
+{"level":"info","time":"2024-08-27T22:54:03+03:00","message":"http: Server closed"}
+{"level":"info","time":"2024-08-27T22:54:03+03:00","message":"Shutting down..."}
+{"level":"error","time":"2024-08-27T22:54:12+03:00","message":"Error decoding JSON: invalid character ',' looking for beginning of value"}
